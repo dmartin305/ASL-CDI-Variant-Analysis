@@ -1,6 +1,11 @@
 # ASL-CDI Variant-Analysis
 This is for the linguistic analysis of variants collected in the duration of the creation of the PopSignAI v.1.0 Dataset.
 
+- [ASL-CDI Variant-Analysis](#asl-cdi-variant-analysis)
+  - [Review Process](#review-process)
+    - [Pass 1](#pass-1)
+  - [Thoughts](#thoughts)
+
 ## Review Process 
 ### Pass 1
 ![](figures/1st_pass.drawio.svg)
